@@ -1,3 +1,5 @@
+Hello! Welcome to my short guide on the tooling I like to use day to day as a software developer. Hopefully, there is something here to help improve your day to day experience!
+
 Iterm2 + OhMyZsh! + Powerlevel9K Install Guide:
 https://github.com/pugengineer/iTerm2-ohmyzsh-powerlevel9k
 
@@ -9,6 +11,9 @@ https://gist.github.com/ericx2x/18d702ecaeaf1fc30295cd826fbebc5c
 
 How to Open VSCode from Terminal:
 https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
+
+Vim Extension for VsCode:
+https://marketplace.visualstudio.com/items?itemName=vscodevim.vim
 
 NeoVim:
 brew install neovim
