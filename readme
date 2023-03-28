@@ -21,6 +21,9 @@ brew install neovim
 My NeoVim Tutorial Command + CheatSheet:
 https://gist.github.com/ericx2x/1dca9ae7c750861e3207c6dc0fdc16d5
 
+My NeoVim init.vim file:
+https://github.com/ericx2x/vim/blob/master/.vimrc_work
+
 KarabinerElements:
 https://karabiner-elements.pqrs.org/
 
