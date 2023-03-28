@@ -1,0 +1,24 @@
+Iterm2 + OhMyZsh! + Powerlevel9K Install Guide:
+https://github.com/pugengineer/iTerm2-ohmyzsh-powerlevel9k
+
+My iterm2 profile:
+https://gist.github.com/ericx2x/21560d786144c7abf5cae503a15f7a46
+
+Stack overflow links if profile import fails:
+https://gist.github.com/ericx2x/18d702ecaeaf1fc30295cd826fbebc5c
+
+How to Open VSCode from Terminal:
+https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
+
+NeoVim:
+brew install neovim
+
+My NeoVim Tutorial Command + CheatSheet:
+https://gist.github.com/ericx2x/1dca9ae7c750861e3207c6dc0fdc16d5
+
+KarabinerElements:
+https://karabiner-elements.pqrs.org/
+
+My Mouse Mover Complex Modification:
+https://github.com/ericx2x/karabiner_custom_keyboard_mouse_script
+.config/karabiner/assets/complex_modifications/
